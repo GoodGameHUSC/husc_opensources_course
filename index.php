@@ -1,5 +1,4 @@
 <?php
-
-include_once('layouts/master.php')
-
+include_once("config.php");
+include("frameworks/router.php");
 ?>

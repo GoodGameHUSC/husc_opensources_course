@@ -1,0 +1,10 @@
+{
+    "name": "dell/opensource",
+    "authors": [
+        {
+            "name": "HunG",
+            "email": "tanhunghue@gmail.com"
+        }
+    ],
+    "require": {}
+}
