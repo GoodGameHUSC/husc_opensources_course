@@ -6,5 +6,13 @@
             "email": "tanhunghue@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+          "database"
+        ],
+        "psr-4": {
+          "App\\": "/"
+        }
+      }
 }
